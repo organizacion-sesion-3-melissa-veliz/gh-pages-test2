@@ -1,0 +1,152 @@
+@font-face {
+    font-family: "DancingScript";
+    src: url(amsterdam-plantilla/dancing-script.woff2);
+}
+
+body{
+    background-color: white;
+    background: url(amsterdam-plantilla/flag-netherlands-1f1f3-1f1f1.svg) repeat-y 40px 30px, url(amsterdam-plantilla/cheese-wedge-1f9c0.svg) repeat-y 97% 97% ;
+    background-size: 8%;
+    font-size: 1.1em;
+    text-align: justify;
+    font-family: sans-serif;
+    line-height: 29px;
+    margin: 0;
+}
+
+h1{
+    padding-inline-start: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10%;
+    font-size: 290%;
+    margin-top: 1%;
+    letter-spacing: 0.5em;
+}
+
+p.parrafo1{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+div{
+    color: white;
+    background-color: rgb(209, 13, 13);
+    padding: 2%;
+    margin: 0.5% 16%;
+    margin-bottom: 2%;
+    padding-top: 1%;
+    max-width: 70%;
+    padding-top: 0.1%;
+    
+    
+    
+}
+
+div.div1{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    margin: 2% 10%;
+    padding: 1%;
+    width: 60%;
+    overflow-y: hidden;
+    padding-bottom: 0;
+}
+
+div.div2{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    margin: 2% 30%;
+    width: 60%;
+    padding: 1%;
+    overflow-y: hidden;
+}
+
+div.div3{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    margin: 2% 10%;
+    width: 60%;
+    padding: 1%;
+}
+
+div.div4{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    margin: 2% 30%;
+    width: 60%;
+    padding: 1%;
+    
+}
+
+.pais{
+    color: black;
+}
+
+span{
+    color: red;
+    font-size: 148%;
+}
+
+span.corona{
+    color: blue;
+    font-size: 100%;
+}
+
+em{
+    color: green;
+    font-style: normal;
+}
+em.amarillo{
+    color: yellow;
+}
+
+b{
+    color: rgb(252, 2, 156);
+    font-variant: small-caps;
+}
+
+hr{
+    clear: both;
+    margin: 10% auto ;
+    border-radius: 5px;
+    border: rgb(255, 255, 255) 1px solid;
+    width: 40%;
+    height: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 0;
+    margin-top: 2%;
+}
+
+p.ventana{
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(255, 255, 255);
+    font-size: 150%;
+    margin: 0% auto;
+    line-height: 132%;
+    padding: 0.5%;
+    width: 19%;
+    height: 15% auto;
+    letter-spacing: 1px;
+    padding-bottom: 0;
+    
+}
+cite{
+    font-family: "DancingScript";
+    word-spacing: 0.1em;
+    font-style: normal;
+    text-align: right;
+}
+
+span.ana{
+    color: black;
+    font-size: 70%;
+    font-weight: bold;
+    
+}
